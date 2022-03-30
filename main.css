@@ -1,0 +1,8 @@
+element.style {
+    align-items: center;
+    inset: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: absolute;
+}
