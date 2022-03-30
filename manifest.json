@@ -1,0 +1,11 @@
+{
+    "name": "deepfake reporter",
+    "version": "1.0.0",
+    "description": "diss artefact",
+    "manifest_version": 3,
+    "author": "Airen Bushby",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": " Report"
+    }
+}
